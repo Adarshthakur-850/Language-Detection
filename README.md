@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Language Detection
 
 Detects the language of text using Naive Bayes and TF-IDF character n-grams.
@@ -23,3 +24,7 @@ Detects the language of text using Naive Bayes and TF-IDF character n-grams.
    uvicorn src.api:app --reload
    ```
 2. Open `frontend/index.html` in your browser.
+=======
+# Language-Detection
+ml project
+>>>>>>> b1833e83a9ccaa94dee7d5701e6e983b82df0d6a
