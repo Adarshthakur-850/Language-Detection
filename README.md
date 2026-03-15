@@ -143,17 +143,3 @@ This project is licensed under the **MIT License**.
 
 📍 LinkedIn: [https://www.linkedin.com/in/adarsh-thakur-8368](https://www.linkedin.com/in/adarsh-thakur-8368)
 📍 GitHub: [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-850)
-
-```
-
----
-
-If you want, I can tailor this README to:
-
-✔ Include screenshots  
-✔ Add working examples  
-✔ Add badges (GitHub CI, Python version, License)  
-✔ Include deployment instructions (Heroku, Render, Vercel)
-
-Just tell me what UI/library you used (Streamlit/Flask/CLI)!
-```
