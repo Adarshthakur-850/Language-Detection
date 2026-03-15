@@ -1,8 +1,3 @@
-Here’s a clean, professional **README** tailored for your **Language Detection** project. You can copy & paste this into `README.md` in your repository:
-
----
-
-```markdown
 # Language Detection
 
 A simple and efficient web application that detects the language of a given text input using Natural Language Processing (NLP). This project identifies the language from a predefined list and displays the detected language with confidence.
